@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  parent_category_id: 1
+  sub_category_id: 1
+  added_by: 1
+  status: 1
+
+two:
+  title: MyString
+  parent_category_id: 1
+  sub_category_id: 1
+  added_by: 1
+  status: 1
